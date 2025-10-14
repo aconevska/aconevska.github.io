@@ -35,7 +35,7 @@ title: "Research"
 _Revise & Resubmit, American Political Science Review._
 
 **Ideology, Party, and Split-Ticket Voting**  
-(with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.)._Under Review._
+(with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.). _Under Review._
 
 **When Are Parties ‘Good’ For The Environment?**  
 (with Can Mutlu)
