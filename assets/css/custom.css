@@ -1,7 +1,7 @@
 html {
   font-family: 'IBM Plex Serif', serif;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 13px;
   line-height: 1.7;
 }
 
@@ -127,7 +127,7 @@ img[alt="LinkedIn"] {
 }
 
 body.research {
-  font-size: 14px;
+  font-size: 12px;
   line-height: 1.5;
 }
 
