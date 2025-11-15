@@ -15,5 +15,5 @@ nav:
     link: /research
   - name: "CV"
     link: /cv/cv_conevska.pdf
-  - name: "Teaching"
+  #- name: "Teaching"
     #link: /teaching
