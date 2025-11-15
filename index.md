@@ -13,7 +13,7 @@ title: ""
 
         <p>Prior to Harvard, I was a Fulbright Scholar at Johns Hopkins University after earning a Bachelor of Arts and Science from McGill University with Joint Honours in Environmnetal Science and Political Science. I have also worked as a consultant for the World Bank Group, London Economics International, and Siemens.</p>
 
-    <p>My research has been published in <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, <em>Climate Policy</em>, <em>Climate and Development</em>, and <em>Energy Research & Social Science</em>.</p>
+    <p>My research has been published in the <em>American Political Science Review</em>, <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, and <em>Energy Research & Social Science</em>.</p>
     
 </div>
 
