@@ -12,7 +12,7 @@ plugins:
 
 nav:
   - name: "Research"
-    link: /research
+    link: /#research
   - name: "CV"
     link: /cv/cv_conevska.pdf
   #- name: "Teaching"
