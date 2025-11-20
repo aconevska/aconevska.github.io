@@ -22,7 +22,7 @@ body {
 .site-title {
   font-size: 2.2rem;
   font-weight: 400;
-  padding-bottom: 3rem;  /* force vertical spacing */
+  padding-bottom: 2rem;  /* force vertical spacing */
   text-decoration: none;
   color: #000000 !important;
   display: inline-block;
@@ -38,7 +38,7 @@ body {
 .site-nav {
   display: flex;
   justify-content: center;
-  gap: 3rem;
+  gap: 2rem;
   border-bottom: 1px solid #aaa;  
   padding-bottom: 0.2rem; /* space between tabs and the border */
   margin-bottom: 0rem;  /* space between the border and the content below */
