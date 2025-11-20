@@ -3,7 +3,34 @@ layout: custom
 title: ""
 ---
 
-<div class="bio-container">
+<style>
+/* --- Home page tweaks --- */
+
+/* 1) Make top bar links ("Research" and "CV") larger on the home page */
+a[href="/#research"],
+a[href="/research/"],
+a[href^="/cv"] {
+  font-size: 1.2rem;     /* ~19px; bump as desired */
+  font-weight: 500;
+  letter-spacing: 0.01em;
+  text-underline-offset: 0.15em;
+}
+
+/* 2) Tighten the gap below the link bar.
+   Pull the first content block upward by ~1–1.5 cm.
+   1 cm ≈ 38px; here we use 3rem ≈ 48px. Adjust to taste. */
+#home-bio {
+  margin-top: -3rem;     /* try -2.5rem to -3.5rem if you want more/less */
+}
+
+/* Optional: on narrow screens, reduce the pull a bit for safety */
+@media (max-width: 700px) {
+  #home-bio { margin-top: -2rem; }
+}
+</style>
+
+
+<div class="bio-container" id="home-bio">
   <div class="bio-text">
     <p>Hi! I am a PhD candidate in the Department of Government at Harvard University. I study institutions, elections, and party behavior, with a focus on climate change. Most of my current research is on the United States but I also study Europe, and in particular, how electoral system design affects how parties address 'new' issues in Europe. In a more applied body of work, I conduct research to establish policy evidence relevant to the energy transition. I also use experimental methods to study voter engagement and strategic campaign messaging.</p>
 
