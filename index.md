@@ -17,10 +17,10 @@ a[href^="/cv"] {
 }
 
 /* 2) Tighten the gap below the link bar.
-   Pull the first content block upward by ~1–1.5 cm.
-   1 cm ≈ 38px; here we use 3rem ≈ 48px. Adjust to taste. */
+   Pulls the first content block upward 
+   1 cm ≈ 38px; using 3rem ≈ 48px. */
 #home-bio {
-  margin-top: -2rem;     /* try -2.5rem to -3.5rem if you want more/less */
+  margin-top: -2rem;     /* tried -2rm to -3.5rem */
 }
 
 /* Optional: on narrow screens, reduce the pull a bit for safety */
