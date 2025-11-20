@@ -100,8 +100,8 @@ img[alt="GitHub"],
 img[alt="Google Scholar"],
 img[alt="Twitter"],
 img[alt="LinkedIn"] {
-  width: 30px !important;
-  height: 30px !important;
+  width: 34px !important;
+  height: 34px !important;
 }
 
 .bio-container {
