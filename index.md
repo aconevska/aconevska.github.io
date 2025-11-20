@@ -71,11 +71,12 @@ a[href^="/cv"] {
 <!-- ========================= -->
 <!-- Research section on home  -->
 <!-- ========================= -->
-<section id="research" class="bio-container" style="margin-top: 0.2rem;">
+<section id="research" class="bio-container" style="margin-top: 0.1rem;">
   <div class="bio-text" markdown="1">
 
-## Publications
+## Research
 
+### Publications
 **Conevska, A., Hirano, S., Kuriwaki, S., Lewis, J. B., Mutlu, C., Snyder, J. M.** (2025). **[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://doi.org/10.1017/S0003055425100920)**. _American Political Science Review._
 
 **Kuriwaki, S., Reece, M., Baltz, S. et al.** (2024). **[Cast vote records: A database of ballots from the 2020 U.S. Election](https://doi.org/10.1038/s41597-024-04017-1)**. _Nature Scientific Data_, **11**, 1304.
@@ -92,8 +93,7 @@ a[href^="/cv"] {
 
 ---
 
-## Working Papers
-
+### Working Papers
 **[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu).  
 _Revise &amp; Resubmit, American Political Science Review._
 
@@ -105,5 +105,8 @@ _Revise &amp; Resubmit, American Political Science Review._
 
 **Polluting Politicians: Import Shocks and Environmental Outcomes**  
 (with Sean Nossek)
+
   </div>
+</div> 
+
 </section>
