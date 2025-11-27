@@ -71,7 +71,7 @@ a[href^="/cv"] {
 <!-- ========================= -->
 <!-- Research section on home  -->
 <!-- ========================= -->
-<section id="research" class="bio-container" style="margin-top: 3rem;">
+<section id="research" class="bio-container" style="margin-top: 0.5rem;">
   <div class="bio-text" markdown="1">
 
 ## Research
