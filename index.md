@@ -30,7 +30,7 @@ a[href^="/cv"] {
 
 /* Make the Research section text column narrower, like the top bio text */
 .research-text {
-  max-width: 44rem;   /* try 36–40rem to taste */
+  max-width: 48rem;   /* try 36–40rem to taste */
   margin-left: 0;
   margin-right: auto; /* pushes extra space to the right */
 }
@@ -84,7 +84,7 @@ a[href^="/cv"] {
 <!-- ========================= -->
 <!-- Research section on home  -->
 <!-- ========================= -->
-<section id="research" class="bio-container" style="margin-top: 6rem;">
+<section id="research" class="bio-container" style="margin-top: 3rem;">
   <div class="bio-text research-text" markdown="1">
 
 ## Research
