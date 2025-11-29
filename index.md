@@ -30,7 +30,7 @@ a[href^="/cv"] {
 
 /* Make the Research section text column narrower, like the top bio text */
 .research-text {
-  max-width: 40rem;   /* try 36–40rem to taste */
+  max-width: 44rem;   /* try 36–40rem to taste */
   margin-left: 0;
   margin-right: auto; /* pushes extra space to the right */
 }
