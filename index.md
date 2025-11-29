@@ -10,7 +10,7 @@ title: ""
 a[href="/#research"],
 a[href="/research/"],
 a[href^="/cv"] {
-  font-size: 1.2rem;     /* ~19px; bump as desired */
+  font-size: 1.2rem;    
   font-weight: 500;
   letter-spacing: 0.01em;
   text-underline-offset: 0.15em;
@@ -23,19 +23,18 @@ a[href^="/cv"] {
   margin-top: -0.2rem;    
 }
 
-/* Optional: on narrow screens, reduce the pull a bit for safety */
+/* on narrow screens, reduce the pull a bit for safety */
 @media (max-width: 700px) {
   #home-bio { margin-top: -2rem; }
 }
 
 /* Make the Research section text column narrower, like the top bio text */
 .research-text {
-  max-width: 38rem;   /* try 36–40rem to taste */
+  max-width: 40rem;   /* try 36–40rem to taste */
   margin-left: 0;
   margin-right: auto; /* pushes extra space to the right */
 }
 
-/* Optional: full width on small screens so it doesn't feel cramped */
 @media (max-width: 800px) {
   .research-text {
     max-width: 100%;
