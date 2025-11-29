@@ -20,7 +20,7 @@ a[href^="/cv"] {
    Pulls the first content block upward 
    1 cm ≈ 38px; using 3rem ≈ 48px, use negative to pull up further */
 #home-bio {
-  margin-top: 1rem;    
+  margin-top: -0.2rem;    
 }
 
 /* on narrow screens, reduce the pull a bit for safety */
@@ -84,7 +84,7 @@ a[href^="/cv"] {
 <!-- ========================= -->
 <!-- Research section on home  -->
 <!-- ========================= -->
-<section id="research" class="bio-container" style="margin-top: 2rem;">
+<section id="research" class="bio-container" style="margin-top: 1rem;">
   <div class="bio-text research-text" markdown="1">
 
 ## Research
