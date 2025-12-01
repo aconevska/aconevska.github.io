@@ -25,7 +25,7 @@ a[href^="/cv"] {
 
 /* on narrow screens, reduce the pull a bit for safety */
 @media (max-width: 700px) {
-  #home-bio { margin-top: -2rem; }
+  #home-bio { margin-top: -0.5rem; }
 }
 
 /* Make the Research section text column narrower, like the top bio text */
