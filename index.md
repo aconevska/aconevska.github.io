@@ -30,7 +30,7 @@ a[href^="/cv"] {
 
 /* Make the Research section text column narrower, like the top bio text */
 .research-text {
-  max-width: 48rem;   /* try 36–40rem to taste */
+  max-width: 46rem;   /* try 36–40rem to taste */
   margin-left: 0;
   margin-right: auto; /* pushes extra space to the right */
 }
@@ -111,7 +111,6 @@ a[href^="/cv"] {
 _Revise &amp; Resubmit, American Political Science Review._
 
 **Ideology, Party, and Split-Ticket Voting** (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.). 
-
 _Revise &amp; Resubmit, American Political Science Review._
 
 **When Are Parties ‘Good’ For The Environment?**  
