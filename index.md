@@ -111,6 +111,7 @@ a[href^="/cv"] {
 _Revise &amp; Resubmit, American Political Science Review._
 
 **Ideology, Party, and Split-Ticket Voting** (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.). 
+
 _Revise &amp; Resubmit, American Political Science Review._
 
 **When Are Parties ‘Good’ For The Environment?**  
