@@ -120,14 +120,14 @@ img[alt="LinkedIn"] {
 
 
 .bio-photo img {
-  max-width: 260px;
+  max-width: 240px;
   height: auto;
   border-radius: 2px;
   margin-top: 1rem;
 }
 
 body.research {
-  font-size: 13px;
+  font-size: 14px;
   line-height: 1.5;
 }
 
