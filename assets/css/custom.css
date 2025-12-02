@@ -193,7 +193,7 @@ body.research main.page-content > .wrapper {
 
 /* zero out the first paragraph so it lines up with the photo */
 main p:first-of-type {
-  margin-top: 0;
+  margin-top: 0.1;
 }
 
 
