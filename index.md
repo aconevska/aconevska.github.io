@@ -54,7 +54,7 @@ a[href^="/cv"] {
   </div>
 
   <div class="bio-photo">
-    <img src="/assets/images/headshot2025.jpg" alt="Aleksandra Conevska" />
+    <img src="/assets/images/headshot2025_cropped.jpg" alt="Aleksandra Conevska" />
 
     <div class="is-container-row is-center is-inset-top-8 social-icons">
       <div class="is-inset-8">
