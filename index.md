@@ -20,7 +20,7 @@ a[href^="/cv"] {
    Pulls the first content block upward 
    1 cm ≈ 38px; using 3rem ≈ 48px, use negative to pull up further */
 #home-bio {
-  margin-top: 1rem;    
+  margin-top: 0rem;    
 }
 
 /* on narrow screens, reduce the pull a bit for safety */
