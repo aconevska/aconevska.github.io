@@ -203,9 +203,9 @@ main p:first-of-type {
 :root{
   /* pick your blue — try one of these */
   --link-blue: #1a73e8;   /* modern medium blue (close to Shiro Kuriwaki's) */
-  --link-blue_dark: #2B6F65;        /* primary teal */
+  --link-blue_dark: #2F6F64;        /* dark green-blue  */
   --link-blue-hover: #0f5bd6;  /* a touch darker on hover */
-  --link-blue_dark-hover: #245D56;  /* darker on hover/focus */
+  --link-blue_dark-hover: #245C53;  /* darker on hover/focus */
 
 }
 
