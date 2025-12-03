@@ -93,7 +93,7 @@ body {
   height: 36px;
   filter: none !important;
   transition: transform 0.2s ease;
-  color: #1DA1F2; /* fallback blue tone */
+  color: #1a73e8; 
 }
 
 .social-icons a:hover img {
