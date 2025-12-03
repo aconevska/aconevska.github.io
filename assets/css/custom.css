@@ -72,10 +72,6 @@ body {
   margin: 0.2rem auto 0.5rem;  /* ↓ less space above, same below */
 }
 
-:root{
-  --link-blue: #1a73e8;      /* pick your light blue */
-  --link-blue-hover: #0f5bd6;
-}
 
 .social-icons {
   display: flex;
@@ -93,11 +89,27 @@ body {
   height: 36px;
   filter: none !important;
   transition: transform 0.2s ease;
-  color: #1a73e8; 
+  color: #2B6F65; 
 }
 
 .social-icons a:hover img {
   transform: scale(1.1);
+}
+
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+  margin-top: 0.5rem;
+}
+
+.social-icons a {
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  color: #245D56;
 }
 
 img[alt="GitHub"],
@@ -162,21 +174,6 @@ body.research {
 }
 
 
-.social-icons {
-  display: flex;
-  justify-content: center;
-  gap: 1.2rem;
-  margin-top: 0.5rem;
-}
-
-.social-icons a {
-  text-decoration: none;
-}
-
-.social-icons a:hover {
-  color: #cd5c5c;
-}
-
 body.research .page-content .wrapper {
   max-width: 700px;
   margin-left: auto;
@@ -206,19 +203,19 @@ main p:first-of-type {
 :root{
   /* pick your blue — try one of these */
   --link-blue: #1a73e8;   /* modern medium blue (close to Shiro Kuriwaki's) */
+  --link-blue_dark: #2B6F65;        /* primary teal */
   --link-blue-hover: #0f5bd6;  /* a touch darker on hover */
+  --link-blue_dark-hover: #245D56;  /* darker on hover/focus */
+
 }
 
 /* change color of links in the main content area */
 main a,
-main a:visited {
-  color: var(--link-blue) !important;
-}
+main a:visited { color: var(--link-blue_dark) !important; text-decoration: none; }
+
 
 main a:hover,
-main a:focus {
-  color: var(--link-blue-hover) !important;
-}
+main a:focus { color: var(--link-blue_dark-hover) !important; text-decoration: none; }
 
 /* remove underlines in the main content area only */
 main a,
@@ -230,7 +227,7 @@ main a:focus {
 
 /* optional but accessible: keep a visible focus ring for keyboard users */
 main a:focus-visible {
-  outline: 2px solid var(--link-blue-hover);
+  outline: 2px solid var(--link-blue_dark-hover);
   outline-offset: 2px;
 }
 
