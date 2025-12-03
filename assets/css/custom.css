@@ -21,7 +21,7 @@ body {
 
 .site-title {
   font-size: 2rem;
-  font-weight: 600;
+  font-weight: 500;
   padding-bottom: 2rem;  /* force vertical spacing */
   text-decoration: none;
   color: #000000 !important;
