@@ -147,8 +147,8 @@ body.research {
 }
 
 .bio-photo .social-icons img {
-  width: 28px;
-  height: 28px;
+  width: 32px;
+  height: 32px;
   filter: grayscale(100%);
   transition: filter 0.3s ease;
 }
@@ -195,6 +195,30 @@ body.research main.page-content > .wrapper {
 main p:first-of-type {
   margin-top: 1;
 }
+
+
+/* ===== hyperlinked text colors (site-wide) ===== */
+:root{
+  /* pick your blue — try one of these */
+  --link-blue: #1a73e8;   /* modern medium blue (very close to Shiro Kuriwaki's) */
+  --link-blue-hover: #0f5bd6;  /* a touch darker on hover */
+}
+
+a,
+a:visited {
+  color: var(--link-blue);
+  text-decoration-color: currentColor; /* keeps underline same hue */
+}
+
+a:hover,
+a:focus {
+  color: var(--link-blue-hover);
+  text-decoration-thickness: from-font;
+}
+
+
+main a, main a:visited { color: var(--link-blue); }
+main a:hover, main a:focus { color: var(--link-blue-hover); }
 
 
 
