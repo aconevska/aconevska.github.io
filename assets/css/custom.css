@@ -72,6 +72,10 @@ body {
   margin: 0.2rem auto 0.5rem;  /* ↓ less space above, same below */
 }
 
+:root{
+  --link-blue: #1a73e8;      /* pick your light blue */
+  --link-blue-hover: #0f5bd6;
+}
 
 .social-icons {
   display: flex;
@@ -200,25 +204,21 @@ main p:first-of-type {
 /* ===== hyperlinked text colors (site-wide) ===== */
 :root{
   /* pick your blue — try one of these */
-  --link-blue: #1a73e8;   /* modern medium blue (very close to Shiro Kuriwaki's) */
+  --link-blue: #1a73e8;   /* modern medium blue (close to Shiro Kuriwaki's) */
   --link-blue-hover: #0f5bd6;  /* a touch darker on hover */
 }
 
-a,
-a:visited {
-  color: var(--link-blue);
-  text-decoration-color: currentColor; /* keeps underline same hue */
+/* change color of links in the main content area */
+main a,
+main a:visited {
+  color: var(--link-blue) !important;
 }
 
-a:hover,
-a:focus {
-  color: var(--link-blue-hover);
-  text-decoration-thickness: from-font;
+main a:hover,
+main a:focus {
+  color: var(--link-blue-hover) !important;
 }
 
-
-main a, main a:visited { color: var(--link-blue); }
-main a:hover, main a:focus { color: var(--link-blue-hover); }
 
 
 
