@@ -89,7 +89,7 @@ body {
   height: 38px;
   filter: none !important;
   transition: transform 0.2s ease;
-  color: #2B6F65; 
+  color: #2F6F64; 
 }
 
 .social-icons a:hover img {
@@ -109,7 +109,7 @@ body {
 }
 
 .social-icons a:hover {
-  color: #245D56;
+  color: #245C53;
 }
 
 img[alt="GitHub"],
