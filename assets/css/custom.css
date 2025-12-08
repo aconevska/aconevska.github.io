@@ -8,7 +8,7 @@ html {
 
 body {
   color: #000000 !important;
-  background: #fff;
+  background: #F5F9FF; /* was #fff for slightly grey-white */
   margin: 0;
   padding: 0;
 }
