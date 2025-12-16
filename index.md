@@ -110,7 +110,7 @@ Conevska, A., Ford, J., Lesnikowski, A., and Harper, S. (2019). **[Adaptation fi
 
 ### Working Papers
 **[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu).  
-_Revise &amp; Resubmit, American Political Science Review._
+_Conditionally Accepted, American Political Science Review._
 
 **Ideology, Party, and Split-Ticket Voting** (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
 _Revise &amp; Resubmit, American Political Science Review._
