@@ -1,12 +1,13 @@
 title: "Aleksandra Conevska"
 email: "aleksandraconevska@fas.harvard.edu"
 description: >-
-     
+  PhD candidate at Harvard University
 
 url: "https://aleksandraconevska.com"
 baseurl: ""
 
 markdown: kramdown
+
 plugins:
   - jekyll-feed
 
@@ -15,5 +16,6 @@ nav:
     link: /#research
   - name: "CV"
     link: /cv/cv_conevska.pdf
-  #- name: "Teaching"
-    #link: /teaching
+  # - name: "Teaching"
+  #   link: /teaching
+
