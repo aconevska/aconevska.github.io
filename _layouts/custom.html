@@ -4,8 +4,9 @@
   <head>
     
     <meta charset="UTF-8">
-    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title | default: site.title }}</title>
+    <meta name="description" content="{{ page.description | default: site.description }}">
+
 
     <!-- google Fonts -->
 <link href="https://fonts.googleapis.com/css2?family=Newsreader+Serif:wght@300;400&display=swap" rel="stylesheet">
