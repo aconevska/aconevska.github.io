@@ -89,6 +89,23 @@ a[href^="/cv"] {
 
 ## Research
 
+### Working Papers
+**[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu).  
+_Conditionally Accepted, American Political Science Review._
+
+**Ideology, Party, and Split-Ticket Voting** (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
+_Revise &amp; Resubmit, American Political Science Review._
+
+**When Are Parties ‘Good’ For The Environment?**  
+(with Can Mutlu)
+
+**Elected Versus Appointed Regulators and Industrial Change**
+
+**Polluting Politicians: Import Shocks and Environmental Outcomes**  
+(with Sean Nossek)
+
+--
+
 ### Publications
 Conevska, A., Hirano, S., Kuriwaki, S., Lewis, J. B., Mutlu, C., Snyder, J. M. (2025). **[How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://doi.org/10.1017/S0003055425100920)**. _American Political Science Review._
 
@@ -104,22 +121,7 @@ Conevska, A., Ford, J., and Lesnikowski, A. (2020). **[Assessing the adaptation 
 
 Conevska, A., Ford, J., Lesnikowski, A., and Harper, S. (2019). **[Adaptation financing for projects focused on food systems through the UNFCCC](https://doi.org/10.1080/14693062.2018.1466682)**. _Climate Policy_, 19(1), 43–58.
 
---
 
-
-
-### Working Papers
-**[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu).  
-_Conditionally Accepted, American Political Science Review._
-
-**Ideology, Party, and Split-Ticket Voting** (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
-_Revise &amp; Resubmit, American Political Science Review._
-
-**When Are Parties ‘Good’ For The Environment?**  
-(with Can Mutlu)
-
-**Polluting Politicians: Import Shocks and Environmental Outcomes**  
-(with Sean Nossek)
 
 </div>
 
