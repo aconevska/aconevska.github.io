@@ -92,15 +92,15 @@ a[href^="/cv"] {
 
 
 ### Working Papers
-**[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu).  
+[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196) (with Can Mutlu).  
 _Conditionally Accepted, American Political Science Review._
 
-**Ideology, Party, and Split-Ticket Voting** (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
+Ideology, Party, and Split-Ticket Voting (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
 _Revise &amp; Resubmit, American Political Science Review._
 
-**Elected Versus Appointed Regulators and Industrial Change**
+Elected Versus Appointed Regulators and Industrial Change
 
-**When Are Parties ‘Good’ For The Environment?**  
+When Are Parties ‘Good’ For The Environment? 
 (with Can Mutlu)
 
 
