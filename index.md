@@ -96,10 +96,10 @@ _Conditionally Accepted, American Political Science Review._
 **Ideology, Party, and Split-Ticket Voting** (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
 _Revise &amp; Resubmit, American Political Science Review._
 
+**Elected Versus Appointed Regulators and Industrial Change**
+
 **When Are Parties ‘Good’ For The Environment?**  
 (with Can Mutlu)
-
-**Elected Versus Appointed Regulators and Industrial Change**
 
 **Polluting Politicians: Import Shocks and Environmental Outcomes**  
 (with Sean Nossek)
