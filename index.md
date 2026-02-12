@@ -87,7 +87,9 @@ a[href^="/cv"] {
 <section id="research" class="bio-container" style="margin-top: 1rem;">
   <div class="bio-text research-text" markdown="1">
 
+
 ## Research
+
 
 ### Working Papers
 **[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196)** (with Can Mutlu).  
@@ -101,8 +103,6 @@ _Revise &amp; Resubmit, American Political Science Review._
 **When Are Parties ‘Good’ For The Environment?**  
 (with Can Mutlu)
 
-**Polluting Politicians: Import Shocks and Environmental Outcomes**  
-(with Sean Nossek)
 
 --
 
