@@ -88,7 +88,8 @@ a[href^="/cv"] {
   <div class="bio-text research-text" markdown="1">
 
 
-## Research
+
+# Research
 
 
 ### Working Papers
