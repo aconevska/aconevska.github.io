@@ -101,7 +101,7 @@ _Forthcoming, American Political Science Review._
 Ideology, Party, and Split-Ticket Voting (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
 _Revise &amp; Resubmit, American Political Science Review._
 
-Elected Versus Appointed Regulators and Industrial Change
+Electoral Accountability and Industrial Change: Regulator Selection and Renewable Energy Growth
 
 When Are Parties ‘Good’ For The Environment? 
 (with Can Mutlu)
