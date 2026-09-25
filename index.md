@@ -49,7 +49,7 @@ a[href^="/cv"] {
       
      <p> I study institutions and interest group and party behavior, particularly in the context of climate change. In my more applied work, I use computational and experimental methods to understand strategic party and voter behavior, and to establish policy evidence relevant to the energy transition. I am also part of a group of researchers committed to digitizing <a href="https://doi.org/10.1038/s41597-024-04017-1">Cast Vote Record data</a> in the United States, unlocking new research frontiers applicable to big questions in academia as well as real world campaign strategy. </p>
 
-    <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS), the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS), and a Harvard <a href="https://salatainstitute.harvard.edu/">Salata Institute</a> Fellow.</p>
+    <p>I am currently a Graduate Fellow at the <a href="https://www.iq.harvard.edu/about">Institute for Quantitative Social Science</a> (IQSS) and the <a href="https://caps.gov.harvard.edu/">Center for American Political Studies</a> (CAPS), and a Harvard <a href="https://salatainstitute.harvard.edu/">Salata Institute</a> Fellow.</p>
 
     <p>Prior to Harvard, I was a Fulbright Scholar at Johns Hopkins University after earning a Bachelor of Arts and Science from McGill University with Joint Honours in Environmental Science and Political Science. I have also worked as a consultant for the World Bank Group, London Economics International, and Siemens. My research has been published in the <em>American Political Science Review</em>, <em>Nature Scientific Data</em>, <em>International Studies Quarterly</em>, and <em>Energy Research &amp; Social Science</em>.</p>
     
@@ -101,7 +101,7 @@ _Forthcoming, American Political Science Review._
 Ideology, Party, and Split-Ticket Voting (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
 _Revise &amp; Resubmit, American Political Science Review._
 
-Electoral Accountability and Industrial Change: Regulator Selection and Renewable Energy Growth
+Electoral Accountability and Industrial Change: Regulator Selection and Renewable Energy Growth (Job Market Paper)
 
 When Are Parties ‘Good’ For The Environment? 
 (with Can Mutlu)
