@@ -1,4 +1,4 @@
-/* --- Active Fonts --- */
+/* --- Active Fonts & Header Layout --- */
 
 html {
   font-family: 'Newsreader', serif;
@@ -7,16 +7,16 @@ html {
   line-height: 1.3;
 } 
 
-/* All headings and site title use Lora */
+/* All headings and site title use regular-weight Lora */
 h1, h2, h3, h4, h5, h6, .site-title {
   font-family: 'Lora', serif;
+  font-weight: 400;
 }
 
-/* "Aleksandra Conevska" - bold Lora matching the "Research" header style */
+/* "Aleksandra Conevska" — styled like "Research" */
 .site-title {
-  font-size: 2.2rem;
-  font-weight: 700;
-  padding-bottom: 1.5rem;
+  font-size: 1.95rem;
+  padding-bottom: 1.2rem;
   text-decoration: none;
   color: #000000 !important;
   display: inline-block;
@@ -29,17 +29,15 @@ h1, h2, h3, h4, h5, h6, .site-title {
   color: #000000 !important;
 }
 
-/* "Research", "Publications", etc. - scaled down 1–2 sizes */
+/* "Research", "Publications", etc. */
 h1, h2 {
-  font-weight: 700;
-  font-size: 1.35rem;
+  font-size: 1.55rem;
   margin-top: 1.5rem;
   margin-bottom: 0.75rem;
 }
 
 h3 {
-  font-weight: 600;
-  font-size: 1.15rem;
+  font-size: 1.3rem;
 }
 
 body {
@@ -64,17 +62,16 @@ body {
   margin-bottom: 0rem;
 }
 
-/* "Research" & "CV" navigation links enlarged */
+/* "Research" & "CV" navigation links */
 .site-nav .page-link {
   font-weight: 500;
-  font-size: 1.5rem;  
+  font-size: 1.35rem;  
   color: #000 !important;
   text-decoration: none;
   border-bottom: 2px solid transparent;
   padding-bottom: 2px;
   transition: border 0.2s ease-in-out;
 }
-
 
 .site-nav .page-link:hover {
   border-bottom: 1px solid #000;
