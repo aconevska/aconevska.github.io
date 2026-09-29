@@ -130,14 +130,15 @@ Regulators play an important role in public policy and existing research indicat
 </div>
 (Job Market Paper)
 
-When Are Parties ‘Good’ For The Environment? 
-(with Can Mutlu)
 
 When Do Voters Get to Decide on Climate? The Universe of Climate and Energy Ballot Measures in the United States (with Can Mutlu) <a href="#" class="abstract-toggle" data-target="abs-climate" aria-expanded="false">[Abstract]</a>
 
 <div class="abstract" id="abs-climate" markdown="0" hidden>
 A large literature documents what Americans say about climate change and energy policy, but we know far less about what they do when these questions are put to them directly. This paper assembles the first systematic record of climate- and energy-related direct democracy in the United States since 2000, covering statewide and local ballot questions at every level of government and every route to the ballot, from citizen initiatives and referenda to legislative referrals, required bond and tax votes, and advisory questions. We classify each measure by its policy goal, who bears its costs, its jurisdiction, how it reached the ballot, and whether it is binding, and we document how the set of questions put to voters has changed over time. Because no national register of local ballot measures exists, we build the universe state by state from official records where they exist and estimate what remains unobserved elsewhere. Moving beyond survey evidence, we then use precinct returns to measure actual support for these measures across two decades, asking how often the pro-climate side prevails, how closely support tracks partisanship, and where Democratic-leaning electorates defect. For measures decided since 2020, we use individual-level cast vote records to examine which of partisanship, its strength, geography, ideology, and voters' choices on the other questions on the same ballot best account for their votes on climate. The resulting dataset, which we will make public, provides a foundation for studying the politics of the energy transition through revealed rather than stated preferences.
 </div>
+
+When Are Parties ‘Good’ For The Environment? 
+(with Can Mutlu)
 
 Where are the Liberal Republicans and Conservative Democrats? Measuring Local Political Space from Cast Vote Records (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
