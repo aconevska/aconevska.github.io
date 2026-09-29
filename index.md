@@ -40,6 +40,25 @@ a[href^="/cv"] {
     max-width: 100%;
   }
 }
+
+/* Collapsible abstracts under working papers (click "Abstract" to expand) */
+details.abstract {
+  margin: -0.6rem 0 1.25rem 0;
+}
+details.abstract summary {
+  cursor: pointer;
+  font-size: 0.9em;
+  opacity: 0.8;
+  width: fit-content;
+}
+details.abstract summary:hover {
+  opacity: 1;
+}
+details.abstract p {
+  font-size: 0.92em;
+  line-height: 1.5;
+  margin: 0.4rem 0 0 1.1rem;
+}
 </style>
 
 
@@ -98,13 +117,43 @@ a[href^="/cv"] {
 [When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196) (with Can Mutlu).  
 _Forthcoming, American Political Science Review._
 
-Ideology, Party, and Split-Ticket Voting (with Shigeo Hirano,  Can Mutlu,  James M. Snyder,  Jr.).   
+Ideology, Party, and Split-Ticket Voting (with Shigeo Hirano, Can Mutlu, James M. Snyder, Jr.).  
 _Revise &amp; Resubmit, American Political Science Review._
+
+<details class="abstract">
+<summary>Abstract</summary>
+<p>This paper examines voting as a function of ideology and partisanship at the individual level, using cast vote record (CVR) data in 2020. The dataset covers over 50 million voters across 1400 national, state, and local races. We use statewide ballot measures to estimate each voter's ideological position, and partisan offices to measure partisanship. We find (i) ideological centrist voters are more likely to split their ticket than non-centrists; (ii) voters who split their tickets at one level of government are more likely to split their ticket at other levels; (iii) when ideological non-centrists swing towards one party's candidate in a given race, ideological centrists also swing towards that candidate; (iv) when strong party supporters swing towards one party's candidate in a given race, then weak party supporters also swing towards that candidate. We then investigate the relationship between split-ticket voting and measures of candidate valence, including incumbency, endorsements by newspapers and interest groups, scandals, and expert evaluations. We find that voting on the basis of candidate valence is more related to the strength of party support than to ideology. Voting on the basis of candidate ideology is related to both strength of party support and voter ideology. Voters who are weak party supporters and who do not share the ideology of the incumbent vote significantly more for more moderate incumbents. Overall, the results suggest that even today, centrists and weak party supporters can play a key role in U.S. elections.</p>
+</details>
 
 Electoral Accountability and Industrial Change: Regulator Selection and Renewable Energy Growth (Job Market Paper)
 
+<details class="abstract">
+<summary>Abstract</summary>
+<p>Regulators play an important role in public policy and existing research indicates that their influence over outcomes depends on how they are selected, where elected regulators yield more consumer oriented policies. I study regulator selection in a more complex world that better characterizes economies today. Industrial change creates new interest group alliances so regulators no longer face clear pro-business incentives when appointed and pro-consumer when elected. Focusing on the electricity sector, I argue electoral accountability yields regulators who are less likely to promote renewable energy and provide evidence that in the US, elected regulators generate significantly less electricity from renewable sources. I argue this is because green interest groups are far more productive at lobbying than electoral campaigning, allowing them greater influence when regulators are insulated from voters. I analyze regulatory lobbying from 2000-2024 and show that green NGOs devote substantially more resources to lobbying than campaigning. Despite their grassroots nature, green NGOs behave more like what we might expect of classic corporate interests. My findings indicate that electoral accountability may not produce the best long-term outcomes for consumers when outcomes involve complex temporal trade offs. Consumer advocacy groups in turn shift away from citizens toward more insulated channels of influence.</p>
+</details>
+
 When Are Parties ‘Good’ For The Environment? 
 (with Can Mutlu)
+
+Polluting Politicians: Import Shocks and Environmental Outcomes (with Sean Nossek)
+
+<details class="abstract">
+<summary>Abstract</summary>
+<p>Do trade shocks affect the environment? We explore two implications of the &ldquo;China Shock&rdquo; that bring pressure to bear influence on environmental legislation; the effect of import penetration on exposed individuals whose preferences aggregate to influence legislators and the relative power of certain firms who lobby to have their interests reflected in relevant legislation. By exploiting China's accession to the WTO in 2001, and the marked increase in imports to the United States associated with it, we attempt to shed light on pathways from trade to attitudes, emissions, and environmental policy. We find that Commuting Zones (CZs) most exposed to import competition exhibit a substantial increase in their propensity to pollute, conditional on Republican political control. We further show that imports lead to an increase in voting for environmental legislation at the national level for jurisdictions with Democratic representation, an outcome we ascribe to the distributional consequences of import exposure, and the resultant changing balance of political influence. We also find tentative evidence that trade exposure decreases support for environmental protection at the individual level among Democrats.</p>
+</details>
+
+When Do Voters Get to Decide on Climate? The Universe of Climate and Energy Ballot Measures in the United States (with Can Mutlu)
+
+<details class="abstract">
+<summary>Abstract</summary>
+<p>A large literature documents what Americans say about climate change and energy policy, but we know far less about what they do when these questions are put to them directly. This paper assembles the first systematic record of climate- and energy-related direct democracy in the United States since 2000, covering statewide and local ballot questions at every level of government and every route to the ballot, from citizen initiatives and referenda to legislative referrals, required bond and tax votes, and advisory questions. We classify each measure by its policy goal, who bears its costs, its jurisdiction, how it reached the ballot, and whether it is binding, and we document how the set of questions put to voters has changed over time. Because no national register of local ballot measures exists, we build the universe state by state from official records where they exist and estimate what remains unobserved elsewhere. Moving beyond survey evidence, we then use precinct returns to measure actual support for these measures across two decades, asking how often the pro-climate side prevails, how closely support tracks partisanship, and where Democratic-leaning electorates defect. For measures decided since 2020, we use individual-level cast vote records to examine which of partisanship, its strength, geography, ideology, and voters' choices on the other questions on the same ballot best account for their votes on climate. The resulting dataset, which we will make public, provides a foundation for studying the politics of the energy transition through revealed rather than stated preferences.</p>
+</details>
+
+Where are the Liberal Republicans and Conservative Democrats? Measuring Local Political Space from Cast Vote Records (with Can Mutlu, Shigeo Hirano, and James Snyder)
+
+Voting under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting (with Can Mutlu, Shigeo Hirano, and James Snyder)
+
+Beyond Party and Ideology: Issue Voting in Down-Ballot Elections (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
 
 --
@@ -130,3 +179,4 @@ Conevska, A., Ford, J., Lesnikowski, A., and Harper, S. (2019). [Adaptation fina
 
 
 </section>
+
