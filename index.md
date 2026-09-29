@@ -132,12 +132,6 @@ Regulators play an important role in public policy and existing research indicat
 When Are Parties ‘Good’ For The Environment? 
 (with Can Mutlu)
 
-Polluting Politicians: Import Shocks and Environmental Outcomes (with Sean Nossek) <a href="#" class="abstract-toggle" data-target="abs-polluting" aria-expanded="false">[Abstract]</a>
-
-<div class="abstract" id="abs-polluting" markdown="0" hidden>
-Do trade shocks affect the environment? We explore two implications of the &ldquo;China Shock&rdquo; that bring pressure to bear influence on environmental legislation; the effect of import penetration on exposed individuals whose preferences aggregate to influence legislators and the relative power of certain firms who lobby to have their interests reflected in relevant legislation. By exploiting China's accession to the WTO in 2001, and the marked increase in imports to the United States associated with it, we attempt to shed light on pathways from trade to attitudes, emissions, and environmental policy. We find that Commuting Zones (CZs) most exposed to import competition exhibit a substantial increase in their propensity to pollute, conditional on Republican political control. We further show that imports lead to an increase in voting for environmental legislation at the national level for jurisdictions with Democratic representation, an outcome we ascribe to the distributional consequences of import exposure, and the resultant changing balance of political influence. We also find tentative evidence that trade exposure decreases support for environmental protection at the individual level among Democrats.
-</div>
-
 When Do Voters Get to Decide on Climate? The Universe of Climate and Energy Ballot Measures in the United States (with Can Mutlu) <a href="#" class="abstract-toggle" data-target="abs-climate" aria-expanded="false">[Abstract]</a>
 
 <div class="abstract" id="abs-climate" markdown="0" hidden>
@@ -149,6 +143,12 @@ Where are the Liberal Republicans and Conservative Democrats? Measuring Local Po
 Voting under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
 Beyond Party and Ideology: Issue Voting in Down-Ballot Elections (with Can Mutlu, Shigeo Hirano, and James Snyder)
+
+Polluting Politicians: Import Shocks and Environmental Outcomes (with Sean Nossek) <a href="#" class="abstract-toggle" data-target="abs-polluting" aria-expanded="false">[Abstract]</a>
+
+<div class="abstract" id="abs-polluting" markdown="0" hidden>
+Do trade shocks affect the environment? We explore two implications of the &ldquo;China Shock&rdquo; that bring pressure to bear influence on environmental legislation; the effect of import penetration on exposed individuals whose preferences aggregate to influence legislators and the relative power of certain firms who lobby to have their interests reflected in relevant legislation. By exploiting China's accession to the WTO in 2001, and the marked increase in imports to the United States associated with it, we attempt to shed light on pathways from trade to attitudes, emissions, and environmental policy. We find that Commuting Zones (CZs) most exposed to import competition exhibit a substantial increase in their propensity to pollute, conditional on Republican political control. We further show that imports lead to an increase in voting for environmental legislation at the national level for jurisdictions with Democratic representation, an outcome we ascribe to the distributional consequences of import exposure, and the resultant changing balance of political influence. We also find tentative evidence that trade exposure decreases support for environmental protection at the individual level among Democrats.
+</div>
 
 
 --
