@@ -109,10 +109,10 @@ div.abstract[hidden] {
 
 
 ### Working Papers
-[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://arxiv.org/abs/2501.03196) (with Can Mutlu).  
+[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://www.dropbox.com/scl/fi/rjh63qsvt3ny1yy1jl4kj/manuscript_accept.pdf?rlkey=ecyhap5xv6meq6mmjucsg8bkl&st=vwh46v31&dl=0) (with Can Mutlu).  
 _Forthcoming, American Political Science Review._
 
-Ideology, Party, and Split-Ticket Voting (with Shigeo Hirano, Can Mutlu, James M. Snyder, Jr.). <a href="#" class="abstract-toggle" data-target="abs-split" aria-expanded="false">[Abstract]</a>  
+[Ideology, Party, and Split-Ticket Voting](https://www.dropbox.com/scl/fi/e3g0hd3l2imdxrfii6dia/partisanship_ideology_and_voting.pdf?rlkey=r3jy4h8a8m48js2kgkare54jf&st=meogwrn2&dl=0) (with Shigeo Hirano, Can Mutlu, James M. Snyder, Jr.). <a href="#" class="abstract-toggle" data-target="abs-split" aria-expanded="false">[Abstract]</a>  
 _Revise &amp; Resubmit, American Political Science Review._
 
 <div class="abstract" id="abs-split" markdown="0" hidden>
