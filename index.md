@@ -109,8 +109,12 @@ div.abstract[hidden] {
 
 
 ### Working Papers
-[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://www.dropbox.com/scl/fi/rjh63qsvt3ny1yy1jl4kj/manuscript_accept.pdf?rlkey=ecyhap5xv6meq6mmjucsg8bkl&st=vwh46v31&dl=0) (with Can Mutlu).  
+[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://www.dropbox.com/scl/fi/rjh63qsvt3ny1yy1jl4kj/manuscript_accept.pdf?rlkey=ecyhap5xv6meq6mmjucsg8bkl&st=vwh46v31&dl=0) (with Can Mutlu). <a href="#" class="abstract-toggle" data-target="abs-utility" aria-expanded="false">[Abstract]</a>  
 _Forthcoming, American Political Science Review._
+
+<div class="abstract" id="abs-utility" markdown="0" hidden>
+In this paper, we address a longstanding puzzle over the functional form that better approximates voter utility from political choices. Though it has become the norm in the literature to represent voter utility with concave loss functions, for decades scholars have underscored this assumption’s potential shortcomings. Yet there exists little to no evidence to support one functional form assumption over another. We fill this gap by first identifying electoral settings where the different functional forms generate divergent predictions over voters’ ballot choices. We then assess which functional form better matches observed voter behavior using Cast Vote Record (CVR) data that captures the anonymized ballots of millions of voters in the 2020 U.S. general elections. Contrary to the generally assumed concave loss functions, our findings indicate that voters’ utility functions exhibit convexity at the tails, suggesting that the convex and especially the reverse S-shaped functions better predict observed voter behavior.
+</div>
 
 [Ideology, Party, and Split-Ticket Voting](https://www.dropbox.com/scl/fi/e3g0hd3l2imdxrfii6dia/partisanship_ideology_and_voting.pdf?rlkey=r3jy4h8a8m48js2kgkare54jf&st=meogwrn2&dl=0) (with Shigeo Hirano, Can Mutlu, James M. Snyder, Jr.). <a href="#" class="abstract-toggle" data-target="abs-split" aria-expanded="false">[Abstract]</a>  
 _Revise &amp; Resubmit, American Political Science Review._
@@ -182,3 +186,4 @@ Conevska, A., Ford, J., Lesnikowski, A., and Harper, S. (2019). [Adaptation fina
     link.setAttribute('aria-expanded', opening ? 'true' : 'false');
   });
 </script>
+
