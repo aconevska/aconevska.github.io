@@ -150,7 +150,7 @@ How do electoral rules shape how responsive American legislators are to their co
 
 Where are the Liberal Republicans and Conservative Democrats? Measuring Local Political Space from Cast Vote Records (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
-Beyond Party and Ideology: Issue Voting in Down-Ballot Elections (with Can Mutlu, Shigeo Hirano, and James Snyder)
+Voting under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
 Polluting Politicians: Import Shocks and Environmental Outcomes (with Sean Nossek) <a href="#" class="abstract-toggle" data-target="abs-polluting" aria-expanded="false">[Abstract]</a>
 
