@@ -136,8 +136,17 @@ When Do Voters Get to Decide on Climate? The Universe of Climate and Energy Ball
 A large literature documents what Americans say about climate change and energy policy, but we know far less about what they do when these questions are put to them directly. This paper assembles the first systematic record of climate- and energy-related direct democracy in the United States since 2000, covering statewide and local ballot questions at every level of government and every route to the ballot, from citizen initiatives and referenda to legislative referrals, required bond and tax votes, and advisory questions. We classify each measure by its policy goal, who bears its costs, its jurisdiction, how it reached the ballot, and whether it is binding, and we document how the set of questions put to voters has changed over time. Because no national register of local ballot measures exists, we build the universe state by state from official records where they exist and estimate what remains unobserved elsewhere. Moving beyond survey evidence, we then use precinct returns to measure actual support for these measures across two decades, asking how often the pro-climate side prevails, how closely support tracks partisanship, and where Democratic-leaning electorates defect. For measures decided since 2020, we use individual-level cast vote records to examine which of partisanship, its strength, geography, ideology, and voters' choices on the other questions on the same ballot best account for their votes on climate. The resulting dataset, which we will make public, provides a foundation for studying the politics of the energy transition through revealed rather than stated preferences.
 </div>
 
+
 When Are Parties ‘Good’ For The Environment? 
 (with Can Mutlu)
+
+
+When Do Legislators Listen on Climate? Top-Two Primaries and Environmental Responsiveness <a href="#" class="abstract-toggle" data-target="abs-primary" aria-expanded="false">[Abstract]</a>
+
+<div class="abstract" id="abs-climate" markdown="0" hidden>
+How do electoral rules shape how responsive American legislators are to their constituents' climate change preferences? I study this question in California, which switched from a classic primary election to a top-two primary system in 2012. I argue that top two primary systems can dilute climate agendas through re-shaping party competition. The top two design makes it more difficult for third parties such as the Green party to compete, potentially reducing the pressure Democrats face competing candidates who are more progressive on the issue. I compare how closely legislators' climate-related roll-call votes track district-level climate related voter behavior before and after the reform. I rely on evidence from the universe of state and local climate related ballot measures to compare voter support for measures related to climate before and after with legislator behavior, which I measure with the League of Conservation Voters scores. I also compare California with Colorado which still holds traditional primaries. I offer new evidence on how the design of electoral systems can strengthen or weaken how well voters are represented on climate.
+</div>
+
 
 Where are the Liberal Republicans and Conservative Democrats? Measuring Local Political Space from Cast Vote Records (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
