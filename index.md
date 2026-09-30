@@ -137,21 +137,14 @@ A large literature documents what Americans say about climate change and energy 
 </div>
 
 
-When Are Parties ‘Good’ For The Environment? 
-(with Can Mutlu)
-
-
 A Tale of Top-Two Primaries: Electoral Design and Legislator Responsiveness to Climate Change <a href="#" class="abstract-toggle" data-target="abs-primary" aria-expanded="false">[Abstract]</a>
 
 <div class="abstract" id="abs-primary" markdown="0" hidden>
 How do electoral rules shape how responsive American legislators are to their constituents' climate change preferences? I study this question in California, which switched from a classic primary election to a top-two primary system in 2012. I argue that top two primary systems can dilute climate agendas through re-shaping party competition. The top two design makes it more difficult for third parties such as the Green party to compete, potentially reducing the pressure Democrats face competing candidates who are more progressive on the issue. I compare how closely legislators' climate-related roll-call votes track district-level climate related voter behavior before and after the reform. I rely on evidence from the universe of state and local climate related ballot measures to compare voter support for measures related to climate before and after with legislator behavior, which I measure with the League of Conservation Voters scores. I also compare California with Colorado which still holds traditional primaries. Overall, I offer new evidence on how the design of electoral systems can strengthen or weaken how well voters are represented on climate.
 </div>
 
-Where are the Liberal Republicans and Conservative Democrats? Measuring Local Political Space from Cast Vote Records (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
-Voting under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting (with Can Mutlu, Shigeo Hirano, and James Snyder)
-
-[Polluting Politicians: Import Shocks and Environmental Outcomes](https://www.dropbox.com/scl/fi/l3z5fbgtkh664gs6j9c6s/envr_chinshock_prelim.pdf?rlkey=zng8zmgq7vntjokhsfgaf5x45&dl=0) (with Sean Nossek) <a href="#" class="abstract-toggle" data-target="abs-polluting" aria-expanded="false">[Abstract]</a>
+[Polluting Politicians? Import Shocks, Legislator Behavior, and Environmental Outcomes](https://www.dropbox.com/scl/fi/l3z5fbgtkh664gs6j9c6s/envr_chinshock_prelim.pdf?rlkey=zng8zmgq7vntjokhsfgaf5x45&dl=0) (with Sean Nossek) <a href="#" class="abstract-toggle" data-target="abs-polluting" aria-expanded="false">[Abstract]</a>
 
 <div class="abstract" id="abs-polluting" markdown="0" hidden>
 Do trade shocks affect the environment? We explore two implications of the &ldquo;China Shock&rdquo; that bring pressure to bear influence on environmental legislation; the effect of import penetration on exposed individuals whose preferences aggregate to influence legislators and the relative power of certain firms who lobby to have their interests reflected in relevant legislation. By exploiting China's accession to the WTO in 2001, and the marked increase in imports to the United States associated with it, we attempt to shed light on pathways from trade to attitudes, emissions, and environmental policy. We find that Commuting Zones (CZs) most exposed to import competition exhibit a substantial increase in their propensity to pollute, conditional on Republican political control. We further show that imports lead to an increase in voting for environmental legislation at the national level for jurisdictions with Democratic representation, an outcome we ascribe to the distributional consequences of import exposure, and the resultant changing balance of political influence. We also find tentative evidence that trade exposure decreases support for environmental protection at the individual level among Democrats.
@@ -175,7 +168,15 @@ Conevska, A., Ford, J., and Lesnikowski, A. (2020). [Assessing the adaptation fu
 
 Conevska, A., Ford, J., Lesnikowski, A., and Harper, S. (2019). [Adaptation financing for projects focused on food systems through the UNFCCC](https://doi.org/10.1080/14693062.2018.1466682). _Climate Policy_, 19(1), 43–58.
 
+--
 
+### Works in Progress
+
+Where are the Liberal Republicans and Conservative Democrats? Measuring Local Political Space from Cast Vote Records (with Can Mutlu, Shigeo Hirano, and James Snyder)
+
+Voting under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting (with Can Mutlu, Shigeo Hirano, and James Snyder)
+
+When Are Parties ‘Good’ For The Environment? (with Can Mutlu)
 
 </div>
 
