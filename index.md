@@ -141,7 +141,7 @@ When Are Parties ‘Good’ For The Environment?
 (with Can Mutlu)
 
 
-When Do Legislators Listen on Climate? Top-Two Primaries and Environmental Responsiveness <a href="#" class="abstract-toggle" data-target="abs-primary" aria-expanded="false">[Abstract]</a>
+A Tale of Top-Two Primaries: Electoral Design and Legislator Responsiveness to Climate Change <a href="#" class="abstract-toggle" data-target="abs-primary" aria-expanded="false">[Abstract]</a>
 
 <div class="abstract" id="abs-primary" markdown="0" hidden>
 How do electoral rules shape how responsive American legislators are to their constituents' climate change preferences? I study this question in California, which switched from a classic primary election to a top-two primary system in 2012. I argue that top two primary systems can dilute climate agendas through re-shaping party competition. The top two design makes it more difficult for third parties such as the Green party to compete, potentially reducing the pressure Democrats face competing candidates who are more progressive on the issue. I compare how closely legislators' climate-related roll-call votes track district-level climate related voter behavior before and after the reform. I rely on evidence from the universe of state and local climate related ballot measures to compare voter support for measures related to climate before and after with legislator behavior, which I measure with the League of Conservation Voters scores. I also compare California with Colorado which still holds traditional primaries. I offer new evidence on how the design of electoral systems can strengthen or weaken how well voters are represented on climate.
