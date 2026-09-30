@@ -149,8 +149,7 @@ Do trade shocks affect the environment? We explore two implications of the &ldqu
 
 ### Publications
 
-[When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://www.dropbox.com/scl/fi/rjh63qsvt3ny1yy1jl4kj/manuscript_accept.pdf?rlkey=ecyhap5xv6meq6mmjucsg8bkl&st=vwh46v31&dl=0) (with Can Mutlu). <a href="#" class="abstract-toggle" data-target="abs-utility" aria-expanded="false">[Abstract]</a>  
-_Forthcoming, American Political Science Review._
+Conevska, A., and Mutlu, C. _Forthcoming_. [When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://www.dropbox.com/scl/fi/rjh63qsvt3ny1yy1jl4kj/manuscript_accept.pdf?rlkey=ecyhap5xv6meq6mmjucsg8bkl&st=vwh46v31&dl=0)._American Political Science Review._ <a href="#" class="abstract-toggle" data-target="abs-utility" aria-expanded="false">[Abstract]</a>  
 
 <div class="abstract" id="abs-utility" markdown="0" hidden>
 In this paper, we address a longstanding puzzle over the functional form that better approximates voter utility from political choices. Though it has become the norm in the literature to represent voter utility with concave loss functions, for decades scholars have underscored this assumption’s potential shortcomings. Yet there exists little to no evidence to support one functional form assumption over another. We fill this gap by first identifying electoral settings where the different functional forms generate divergent predictions over voters’ ballot choices. We then assess which functional form better matches observed voter behavior using Cast Vote Record (CVR) data that captures the anonymized ballots of millions of voters in the 2020 U.S. general elections. Contrary to the generally assumed concave loss functions, our findings indicate that voters’ utility functions exhibit convexity at the tails, suggesting that the convex and especially the reverse S-shaped functions better predict observed voter behavior.
