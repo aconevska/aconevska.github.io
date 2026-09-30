@@ -174,9 +174,10 @@ Conevska, A., Ford, J., Lesnikowski, A., and Harper, S. (2019). [Adaptation fina
 
 ### Works in Progress
 
-Where are the Liberal Republicans and Conservative Democrats? Measuring Local Political Space from Cast Vote Records (with Can Mutlu, Shigeo Hirano, and James Snyder)
+Where Are the Liberal Republicans and Conservative Democrats? Measuring Political Space with Cast Vote Records
+(with Can Mutlu, Shigeo Hirano, and James Snyder)
 
-Voting under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting (with Can Mutlu, Shigeo Hirano, and James Snyder)
+Voting Under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting (with Can Mutlu, Shigeo Hirano, and James Snyder)
 
 When Are Parties ‘Good’ For The Environment? (with Can Mutlu)
 
