@@ -110,7 +110,7 @@ div.abstract[hidden] {
 
 ### Working Papers
 
-Electoral Accountability and Industrial Change: Regulator Selection and Renewable Energy Growth \\
+Electoral Accountability and Industrial Change: Regulator Selection and Renewable Energy Growth \
 (Job Market Paper)
  <a href="#" class="abstract-toggle" data-target="abs-jmp" aria-expanded="false">[Abstract]</a>
 
