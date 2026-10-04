@@ -104,9 +104,7 @@ div.abstract[hidden] {
   <div class="bio-text research-text" markdown="1">
 
 
-
 # Research
-
 
 ### Working Papers
 
