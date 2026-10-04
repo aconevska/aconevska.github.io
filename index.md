@@ -144,6 +144,7 @@ How do electoral rules shape how responsive American legislators are to their co
 Do trade shocks affect the environment? We explore two implications of the &ldquo;China Shock&rdquo; that bring pressure to bear influence on environmental legislation; the effect of import penetration on exposed individuals whose preferences aggregate to influence legislators and the relative power of certain firms who lobby to have their interests reflected in relevant legislation. By exploiting China's accession to the WTO in 2001, and the marked increase in imports to the United States associated with it, we attempt to shed light on pathways from trade to attitudes, emissions, and environmental policy. We find that Commuting Zones (CZs) most exposed to import competition exhibit a substantial increase in their propensity to pollute, conditional on Republican political control. We further show that imports lead to an increase in voting for environmental legislation at the national level for jurisdictions with Democratic representation, an outcome we ascribe to the distributional consequences of import exposure, and the resultant changing balance of political influence. We also find tentative evidence that trade exposure decreases support for environmental protection at the individual level among Democrats.
 </div>
 
+Are Parties ‘Good’ For The Environment? (with Can Mutlu)
 
 --
 
@@ -178,8 +179,6 @@ Where Are Liberal Republicans and Conservative Democrats? Measuring Local Politi
 
 Voting Under Different Rules: How Electoral Institutions Shape Partisan and Ideological Voting
 (with Can Mutlu, Shigeo Hirano, and James Snyder)
-
-When Are Parties ‘Good’ For The Environment? (with Can Mutlu)
 
 </div>
 
