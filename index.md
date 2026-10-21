@@ -108,7 +108,7 @@ div.abstract[hidden] {
 
 ### Working Papers
 
-Do Grassroots Organizations Trade Democracy for Influence? Regulator Selection and the Energy Transition \\
+Do Grassroots Organizations Trade Mission for Influence? Regulator Selection and the Energy Transition \\
 (Job Market Paper)
  <a href="#" class="abstract-toggle" data-target="abs-jmp" aria-expanded="false">[Abstract]</a>
 
