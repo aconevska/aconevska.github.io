@@ -144,7 +144,7 @@ How do electoral rules shape how responsive American legislators are to their co
 Do trade shocks affect the environment? We explore two implications of the &ldquo;China Shock&rdquo; that bring pressure to bear influence on environmental legislation; the effect of import penetration on exposed individuals whose preferences aggregate to influence legislators and the relative power of certain firms who lobby to have their interests reflected in relevant legislation. By exploiting China's accession to the WTO in 2001, and the marked increase in imports to the United States associated with it, we attempt to shed light on pathways from trade to attitudes, emissions, and environmental policy. We find that Commuting Zones (CZs) most exposed to import competition exhibit a substantial increase in their propensity to pollute, conditional on Republican political control. We further show that imports lead to an increase in voting for environmental legislation at the national level for jurisdictions with Democratic representation, an outcome we ascribe to the distributional consequences of import exposure, and the resultant changing balance of political influence. We also find tentative evidence that trade exposure decreases support for environmental protection at the individual level among Democrats.
 </div>
 
-Are Parties ‘Good’ For The Environment? (with Can Mutlu)
+Are Parties 'Good' For The Environment? (with Can Mutlu)
 
 --
 
@@ -153,7 +153,7 @@ Are Parties ‘Good’ For The Environment? (with Can Mutlu)
 Conevska, A., and Mutlu, C. _Forthcoming_. [When Do Voters Stop Caring? Estimating the Shape of Voters' Utility Functions](https://www.dropbox.com/scl/fi/rjh63qsvt3ny1yy1jl4kj/manuscript_accept.pdf?rlkey=ecyhap5xv6meq6mmjucsg8bkl&st=vwh46v31&dl=0). _American Political Science Review._ <a href="#" class="abstract-toggle" data-target="abs-utility" aria-expanded="false">[Abstract]</a>  
 
 <div class="abstract" id="abs-utility" markdown="0" hidden>
-In this paper, we address a longstanding puzzle over the functional form that better approximates voter utility from political choices. Though it has become the norm in the literature to represent voter utility with concave loss functions, for decades scholars have underscored this assumption’s potential shortcomings. Yet there exists little to no evidence to support one functional form assumption over another. We fill this gap by first identifying electoral settings where the different functional forms generate divergent predictions over voters’ ballot choices. We then assess which functional form better matches observed voter behavior using Cast Vote Record (CVR) data that captures the anonymized ballots of millions of voters in the 2020 U.S. general elections. Contrary to the generally assumed concave loss functions, our findings indicate that voters’ utility functions exhibit convexity at the tails, suggesting that the convex and especially the reverse S-shaped functions better predict observed voter behavior.
+In this paper, we address a longstanding puzzle over the functional form that better approximates voter utility from political choices. Though it has become the norm in the literature to represent voter utility with concave loss functions, for decades scholars have underscored this assumption's potential shortcomings. Yet there exists little to no evidence to support one functional form assumption over another. We fill this gap by first identifying electoral settings where the different functional forms generate divergent predictions over voters' ballot choices. We then assess which functional form better matches observed voter behavior using Cast Vote Record (CVR) data that captures the anonymized ballots of millions of voters in the 2020 U.S. general elections. Contrary to the generally assumed concave loss functions, our findings indicate that voters' utility functions exhibit convexity at the tails, suggesting that the convex and especially the reverse S-shaped functions better predict observed voter behavior.
 </div>
 
 Conevska, A., Hirano, S., Kuriwaki, S., Lewis, J. B., Mutlu, C., Snyder, J. M. (2026). [How Partisan are U.S. Local Elections? Evidence from 2020 Cast Vote Records](https://doi.org/10.1017/S0003055425100920). _American Political Science Review_, 120(2), 564-581.
@@ -166,7 +166,7 @@ Mikkelson, G. M., Avidan, M., Conevska, A., and Etzion, D. (2021). [Mutual reinf
 
 Conevska, A., and Urpelainen, J. (2020). [Seasonal Variation in Electricity Consumption Among Off-Grid Households: Evidence from Rural India](https://doi.org/10.1016/j.erss.2020.101444). _Energy Research & Social Science_, 65, 101444.
 
-Conevska, A., Ford, J., and Lesnikowski, A. (2020). [Assessing the adaptation fund’s responsiveness to developing country’s needs](https://doi.org/10.1080/17565529.2019.1638225). _Climate and Development_, 12(5), 436–447.
+Conevska, A., Ford, J., and Lesnikowski, A. (2020). [Assessing the adaptation fund's responsiveness to developing country's needs](https://doi.org/10.1080/17565529.2019.1638225). _Climate and Development_, 12(5), 436–447.
 
 Conevska, A., Ford, J., Lesnikowski, A., and Harper, S. (2019). [Adaptation financing for projects focused on food systems through the UNFCCC](https://doi.org/10.1080/14693062.2018.1466682). _Climate Policy_, 19(1), 43–58.
 
