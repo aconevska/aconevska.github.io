@@ -7,6 +7,8 @@ url: "https://aleksandraconevska.com"
 baseurl: ""
 
 markdown: kramdown
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 plugins:
   - jekyll-feed
